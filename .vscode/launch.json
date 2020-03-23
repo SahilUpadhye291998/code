@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RomanToInt",
+            "request": "launch",
+            "mainClass": "leetcode.RomanToInt",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FizzBizz",
+            "request": "launch",
+            "mainClass": "leetcode.FizzBizz",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FindMaxProfit",
+            "request": "launch",
+            "mainClass": "algorythms.dynamic_programming.FindMaxProfit",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeSortedArray",
+            "request": "launch",
+            "mainClass": "algorythms.sorting_and_searching.MergeSortedArray",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "algorythms.string.LongestCommonPrefix",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountAndSay",
+            "request": "launch",
+            "mainClass": "algorythms.string.CountAndSay",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImplementStrstr",
+            "request": "launch",
+            "mainClass": "algorythms.string.ImplementStrstr",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AtoI",
+            "request": "launch",
+            "mainClass": "algorythms.string.AtoI",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ValidPalandrom",
+            "request": "launch",
+            "mainClass": "algorythms.string.ValidPalandrom",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Anagram",
+            "request": "launch",
+            "mainClass": "algorythms.string.Anagram",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstUniqueCharacter",
+            "request": "launch",
+            "mainClass": "algorythms.string.FirstUniqueCharacter",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseString",
+            "request": "launch",
+            "mainClass": "algorythms.string.ReverseString",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RotateImage",
+            "request": "launch",
+            "mainClass": "algorythms.array.RotateImage",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ValidSudoku",
+            "request": "launch",
+            "mainClass": "algorythms.array.ValidSudoku",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TwoSum",
+            "request": "launch",
+            "mainClass": "algorythms.array.TwoSum",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MoveZero",
+            "request": "launch",
+            "mainClass": "algorythms.array.MoveZero",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PlusOne",
+            "request": "launch",
+            "mainClass": "algorythms.array.PlusOne",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntersectionOfTwoArray",
+            "request": "launch",
+            "mainClass": "algorythms.array.IntersectionOfTwoArray",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingleNumber",
+            "request": "launch",
+            "mainClass": "algorythms.array.SingleNumber",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ContainsDuplicate",
+            "request": "launch",
+            "mainClass": "algorythms.array.ContainsDuplicate",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RotateArray",
+            "request": "launch",
+            "mainClass": "algorythms.array.RotateArray",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BuyAndSellStocks",
+            "request": "launch",
+            "mainClass": "algorythms.array.BuyAndSellStocks",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "algorythms.array.RemoveDuplicate",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RemoveOuterMostBracket",
+            "request": "launch",
+            "mainClass": "leetcode.RemoveOuterMostBracket",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sample<code _e3e53224>",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InfixToPostFix<code _e3e53224>",
+            "request": "launch",
+            "mainClass": "algorythms.stack_and_queue.stack.InfixToPostFix",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StackImplimentation<code _e3e53224>",
+            "request": "launch",
+            "mainClass": "algorythms.stack_and_queue.stack.StackImplimentation",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryTree<code _e3e53224>",
+            "request": "launch",
+            "mainClass": "algorythms.tree.BinaryTree",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumElement<code _e3e53224>",
+            "request": "launch",
+            "mainClass": "algorythms.tree.MinimumElement",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SampleTree<code _e3e53224>",
+            "request": "launch",
+            "mainClass": "algorythms.tree.SampleTree",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DecompressRunLengthEncodedString<code _e3e53224>",
+            "request": "launch",
+            "mainClass": "leetcode.DecompressRunLengthEncodedString",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DecreaseElementToMakeArrayZigZag<code _e3e53224>",
+            "request": "launch",
+            "mainClass": "leetcode.DecreaseElementToMakeArrayZigZag",
+            "projectName": "code _e3e53224"
+        }
+    ]
+}

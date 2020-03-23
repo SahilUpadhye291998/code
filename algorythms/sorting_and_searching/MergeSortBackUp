@@ -1,0 +1,28 @@
+ int m = 1;
+        int counter = m - 1;
+        // for (int i = 0; i < array1.length; i++) {
+        // if (array1[i] != 0) {
+        // counter++;
+        // }
+        // }
+        if (counter < 0) {
+            counter = 0;
+        } else if (counter == 0) {
+            counter = 1;
+        }
+        int icounter = array1.length - 1;
+        int jcounter = array2.length - 1;
+
+        while (icounter >= 0 && jcounter >= 0) {
+
+            if (array1[counter] <= array2[jcounter]) {
+                array1[icounter] = array2[jcounter];
+                icounter--;
+                jcounter--;
+            } else {
+                array1[icounter] = array1[counter];
+                counter--;
+                icounter--;
+            }
+
+        }
