@@ -10,6 +10,7 @@ class BuyAndSellStocks {
             }
         }
         System.out.println(output);
+        System.out.println("asdf");
     }
 
 }

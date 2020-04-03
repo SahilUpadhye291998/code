@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Sample2",
+            "request": "launch",
+            "mainClass": "Sample2",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RomanToInt",
             "request": "launch",
             "mainClass": "leetcode.RomanToInt",
