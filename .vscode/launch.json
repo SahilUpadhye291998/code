@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CountingElements",
+            "request": "launch",
+            "mainClass": "leetcode.Code30Days.Day7.CountingElements",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GroupAnagram",
+            "request": "launch",
+            "mainClass": "leetcode.Code30Days.Day6.GroupAnagram",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Sample2",
             "request": "launch",
             "mainClass": "Sample2",
