@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MiniMumSubArray",
+            "request": "launch",
+            "mainClass": "algorythms.array.MiniMumSubArray",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BackSpaceStringCompare",
             "request": "launch",
             "mainClass": "leetcode.Code30Days.Day9.BackSpaceStringCompare",
