@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DiameterTree",
+            "request": "launch",
+            "mainClass": "algorythms.tree.DiameterTree",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HeightOfTree",
+            "request": "launch",
+            "mainClass": "algorythms.tree.HeightOfTree",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MiniMumSubArray",
             "request": "launch",
             "mainClass": "algorythms.array.MiniMumSubArray",
