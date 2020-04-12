@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PQueue",
+            "request": "launch",
+            "mainClass": "algorythms.sorting_and_searching.PQueue",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearch",
+            "request": "launch",
+            "mainClass": "algorythms.sorting_and_searching.BinarySearch",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DiameterTree",
             "request": "launch",
             "mainClass": "algorythms.tree.DiameterTree",
