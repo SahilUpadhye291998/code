@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ContiguousArray",
+            "request": "launch",
+            "mainClass": "leetcode.Code30Days.Day12.ContiguousArray",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearchRotatedArray",
+            "request": "launch",
+            "mainClass": "algorythms.sorting_and_searching.BinarySearchRotatedArray",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PQueue",
             "request": "launch",
             "mainClass": "algorythms.sorting_and_searching.PQueue",
