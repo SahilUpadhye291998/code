@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PerformStringShift",
+            "request": "launch",
+            "mainClass": "leetcode.Code30Days.Day13.PerformStringShift",
+            "projectName": "code _e3e53224"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ContiguousArray",
             "request": "launch",
             "mainClass": "leetcode.Code30Days.Day12.ContiguousArray",
