@@ -1,7 +1,5 @@
 package algorythms.array;
 
-import sun.font.EAttribute;
-
 class RemoveDuplicate {
     public static void main(String[] args) {
         int[] input = new int[] { 1, 1, 2, 3, 4 };

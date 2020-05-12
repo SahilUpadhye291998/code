@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - GradingStudent",
+            "request": "launch",
+            "mainClass": "hackerrank.problemsolving.gradingstudent.GradingStudent",
+            "projectName": "code_9eb8df7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DayOfProgrammer",
+            "request": "launch",
+            "mainClass": "hackerrank.problemsolving.dayofprogrammer.DayOfProgrammer",
+            "projectName": "code_9eb8df7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MigratoryBirds",
+            "request": "launch",
+            "mainClass": "hackerrank.problemsolving.migratorybirds.MigratoryBirds",
+            "projectName": "code_9eb8df7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DivisibleSumPair",
+            "request": "launch",
+            "mainClass": "hackerrank.problemsolving.DivisibleSumPair.DivisibleSumPair",
+            "projectName": "code_9eb8df7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BirthDayBarProblem",
+            "request": "launch",
+            "mainClass": "hackerrank.problemsolving.birthdaybarproblem.BirthDayBarProblem",
+            "projectName": "code_9eb8df7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BreakingRecord",
+            "request": "launch",
+            "mainClass": "hackerrank.problemsolving.breakingBestAndWorstRecord.BreakingRecord",
+            "projectName": "code_9eb8df7"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PerformStringShift",
             "request": "launch",
             "mainClass": "leetcode.Code30Days.Day13.PerformStringShift",
