@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SearchInsertPosition",
+            "request": "launch",
+            "mainClass": "algorythms.sorting_and_searching.SearchInsertPosition",
+            "projectName": "code_d328097a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearchTree",
+            "request": "launch",
+            "mainClass": "algorythms.tree.BinarySearchTree",
+            "projectName": "code_d328097a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RemoveElement",
+            "request": "launch",
+            "mainClass": "algorythms.linkedlist.RemoveElement",
+            "projectName": "code_d328097a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseList",
+            "request": "launch",
+            "mainClass": "algorythms.linkedlist.ReverseList",
+            "projectName": "code_d328097a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - GradingStudent",
             "request": "launch",
             "mainClass": "hackerrank.problemsolving.gradingstudent.GradingStudent",
